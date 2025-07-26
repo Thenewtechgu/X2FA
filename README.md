@@ -1,2 +1,18 @@
 # X2FA
-A mini FIDO2 2FA key
+
+<img width="1094" height="1120" alt="image" src="https://github.com/user-attachments/assets/97e64f34-dcee-48c2-86cf-73dd291a1969" />
+
+X2FA is an open-source FIDO2 2fa key.
+
+- What's a 2fa key
+
+A 2FA key is a small device that adds extra security to logins by requiring both your password and the physical key. It uses secure encryption (like FIDO2 or NFC) to verify your identity and protect against hacks.
+
+- What's FIDO2?
+
+FIDO2 is a secure authentication standard that replaces passwords with cryptographic keys. It uses a hardware device (like a USB or NFC key) to prove your identity by signing a challenge from the website. This keeps your credentials safe and makes phishing attacks nearly impossible.
+
+Basically, 2XFA makes it harder for hackers to hack you
+
+Source code: Coming soon
+
