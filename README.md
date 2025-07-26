@@ -16,3 +16,7 @@ Basically, 2XFA makes it harder for hackers to hack you
 
 Source code: Coming soon
 
+
+Bill of Materials:
+<img width="1554" height="308" alt="image" src="https://github.com/user-attachments/assets/5010c8a8-10e4-48e8-a7e3-9816dd0c49fb" />
+
