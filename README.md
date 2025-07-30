@@ -1,6 +1,6 @@
 # X2FA
 
-<img width="1094" height="1120" alt="image" src="https://github.com/user-attachments/assets/2a7c38b0-9162-4d73-b6d5-97eb7628c326" />
+![Uploading image.png…]()
 
 X2FA is an open-source FIDO2 2fa key.
 
